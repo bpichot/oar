@@ -29,6 +29,7 @@ $CONF['nav_timespans'] = array(
   '1 day' => 24*3600,
   '3 day' => 3*24*3600,
   '1 week' => 7*24*3600,
+  '1 month' => 30*24*3600,
 );
 
 $CONF['nav_filters'] = array( // proposed filters in the "misc" bar
